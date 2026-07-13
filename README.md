@@ -18,7 +18,7 @@ algorithm-design/
 │   ├── merge_sort.py
 │   ├── merge_sort_divide_conquer.py
 │   ├── quick_sort.py
-│   └── partition.py
+│  
 │
 ├── searching/
 │   └── binary_search.py
@@ -65,7 +65,6 @@ algorithm-design/
 - Merge Sort
 - Merge Sort (Divide and Conquer)
 - Quick Sort
-- Partition Algorithm
 
 ### 🔹 Searching Algorithms
 - Binary Search
