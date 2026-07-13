@@ -39,12 +39,12 @@ algorithm-design/
 │   └── fractional_knapsack.py
 │
 ├── graph/
-│   ├── dijkstra_basic.py
 │   ├── dijkstra.py
-│   ├── prim_basic.py
+│   ├── dijkstra2.py
 │   ├── prim.py
-│   ├── kruskal_basic.py
+│   ├── prim2.py
 │   ├── kruskal.py
+│   ├── kruskal2.py
 │   └── floyd.py
 │
 ├── backtracking/
